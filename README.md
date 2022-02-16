@@ -1,9 +1,12 @@
-### Hello! 👋 
+## Hey!👋 This is Max Chan 
 
 I'm Max, a 2nd Year Computer Science Student at Monash University with the hopes of becoming a valuable software engineer. I love learning new languages and technologies and I am currently diving into the depths of Web Development.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcht1123&theme=dark&show_icons=true)
+Skills: Python / Java / HTML / CSS / JS 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mcht1123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maxchan1123//)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcht1123&theme=dark&show_icons=true)
 <!--
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
