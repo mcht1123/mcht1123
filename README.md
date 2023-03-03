@@ -1,6 +1,11 @@
 ## Hey!👋 This is Max Chan 
 
-I'm Max, a 2nd Year Computer Science Student at Monash University with the hopes of becoming a valuable software engineer. I love learning new languages and technologies and I am currently diving into the depths of Web Development.
+I'm Max, a final year Computer Science Student at Monash University with an aspiration to become a valued software engineer. 
+
+Things I love:
+1) Learning new languages and technologies whenever possible :)
+2) Dogs (Had a dachshund once which I still hold dear)
+3) Volleyball, table tennis, football, badminton
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcht1123&theme=dark&show_icons=true)
 
