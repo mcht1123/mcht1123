@@ -7,7 +7,7 @@ Things I love:
 2) Dogs (Had a dachshund once which I still hold dear)
 3) Volleyball, table tennis, football, badminton
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcht1123&theme=dark&show_icons=true)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mcht1123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maxchan1123//)  
 
