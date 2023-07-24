@@ -2,6 +2,7 @@
 
 I'm Max, a final year Computer Science Student at Monash University with an aspiration to become a valued software engineer. 
 
+<!--
 Things I love:
 1) Learning new languages and technologies whenever possible :)
 2) Dogs (Had a dachshund once which I still hold dear)
@@ -10,7 +11,7 @@ Things I love:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maxchan1123//)  
-
+-->
 
 <!--
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
